@@ -3,7 +3,6 @@
 <h3 align="center">Game Developer & Computer Engineer</h3>    
 
 <p align="center"> ✨ I develop games, turning ideas into interactive experiences </p> 
-<p align="center"> 🌱 Currently learning about artificial intelligence </p>   
 <p align="center"> 🎮 Play my games from here: https://seden.itch.io/ </p>    
 <p align="center"> 🪄 Always curious and eager to learn and grow </p> 
 <!-- <p align="center"> 📧 How to reach me: <a href="mailto:sedencanpolat@gmail.com">sedencanpolat@gmail.com</a> </p> -->
