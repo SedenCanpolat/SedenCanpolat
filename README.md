@@ -1,12 +1,14 @@
-<h1 align="center" >Hi, I'm Seden <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>   
-&nbsp;
-<h3 align="center">Game Developer & Computer Engineer</h3>    
+<h1 align="center">
+  Hi, I'm Seden
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-<p align="center"> ✨ I develop games, turning ideas into interactive experiences </p> 
-<p align="center"> 🎮 Play my games from here: https://seden.itch.io/ </p>    
-<p align="center"> 🪄 Always curious and eager to learn and grow </p> 
-<!-- <p align="center"> 📧 How to reach me: <a href="mailto:sedencanpolat@gmail.com">sedencanpolat@gmail.com</a> </p> -->
-&nbsp;  
+<h3 align="center">Game Developer & Computer Engineer</h3>
+
+<p align="center">✨ I develop games, turning ideas into interactive experiences</p>
+<p align="center">🎮 Play my games from here: https://seden.itch.io/</p>
+<p align="center">🪄 Always curious and eager to learn and grow</p>
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -50,20 +52,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<!--
-**SedenCanpolat/SedenCanpolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
